@@ -6,7 +6,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/rvinong?style=for-the-badge&logo=github&color=2563eb&labelColor=0f172a)](https://github.com/rvinong)
 [![Profile views](https://komarev.com/ghpvc/?username=rvinong&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS)](https://github.com/rvinong)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ICpEP_Connect-f97316?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a)](https://github.com/rvinong/cpe-website)
 
 </div>
 
@@ -14,19 +13,19 @@
 
 ## About Me
 
-I am **Rvin Ong Labrada**, a Computer Engineering student who likes building real systems while learning how the pieces connect: frontend interfaces, backend logic, database design, authentication, and the small details that make a project feel usable.
+I am **Rvin Ong Labrada**, a Computer Engineering student exploring how ideas become real systems through frontend interfaces, backend logic, database design, authentication, and UI/UX.
 
 My current mindset is simple:
 
 > **Seeing how far vibe coding can take me.**
 
-That does not mean skipping the fundamentals. It means building with curiosity, testing ideas quickly, fixing what breaks, and learning deeper each time the project asks more from me.
+That does not mean skipping the fundamentals. It means building with curiosity, testing ideas quickly, fixing what breaks, and learning deeper each time a project asks more from me.
 
-I have worked on projects like **CPE-HUB**, an ecommerce website where I practiced frontend pages, backend routes, authentication logic, MongoDB/Mongoose database work, product scripts, and admin/user flows.
+I have worked on different kinds of projects, including ecommerce systems, organization portals, student-focused tools, dashboard interfaces, account systems, role-based features, media galleries, comments, reactions, and database-backed workflows.
 
-I am also building **ICpEP Connect**, an organization portal for announcements, events, news, gallery posts, accounts, roles, dashboards, comments, reactions, and database-backed workflows.
+Projects like **CPE-HUB**, **ICpEP Connect**, **mco-linkedlist**, and **Ether-Web-Innovations** help me practice different sides of development: full-stack structure, responsive UI, backend routes, database work, programming fundamentals, and web design.
 
-These projects help me practice both sides of development: creating interfaces people can use and building the logic and data systems behind them.
+Each project gives me a new way to understand how software is planned, built, tested, improved, and made usable.
 
 ---
 
@@ -59,35 +58,21 @@ These projects help me practice both sides of development: creating interfaces p
 
 ---
 
-## Projects I Am Building
+## What I Am Building
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/rvinong/CPE-HUB">CPE-HUB</a></h3>
-      <p>
-        An ecommerce website project where I practiced frontend pages,
-        backend routes, authentication-related logic, database models,
-        product scripts, and admin/user system ideas.
-      </p>
-      <p>
-        It helped me understand how an app connects UI, API logic,
-        data storage, and user workflows.
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/rvinong/cpe-website">ICpEP Connect</a></h3>
-      <p>
-        An organization portal built for announcements, events, news,
-        gallery posts, accounts, dashboards, roles, comments, and reactions.
-      </p>
-      <p>
-        It helped me practice UI/UX, dashboard workflows, authentication,
-        database-backed features, and community-focused web tools.
-      </p>
-    </td>
-  </tr>
-</table>
+I build web systems that help me practice both the visible and hidden parts of development: the interface people use, the logic that makes it work, and the database that keeps everything connected.
+
+My projects cover different areas: ecommerce, student portals, organization management, dashboards, account systems, role-based tools, content publishing, media galleries, comments, reactions, and frontend experiments.
+
+Through **CPE-HUB**, I practiced ecommerce-style web development with frontend pages, backend routes, authentication-related logic, MongoDB/Mongoose database work, product scripts, and admin/user workflows.
+
+Through **ICpEP Connect**, I practiced organization-focused development with announcements, events, news, gallery posts, accounts, roles, dashboards, comments, reactions, and Supabase-backed features.
+
+Through **mco-linkedlist**, I practiced programming fundamentals and data structure logic.
+
+Through **Ether-Web-Innovations**, I practiced frontend layout, styling, and web presentation.
+
+Together, these projects help me grow across frontend, backend, database design, UI/UX, and programming fundamentals.
 
 ---
 
@@ -151,7 +136,7 @@ These projects help me practice both sides of development: creating interfaces p
 | [CPE-HUB](https://github.com/rvinong/CPE-HUB) | Ecommerce website with frontend pages, backend logic, auth-related features, scripts, and database work. | React, Tailwind CSS, Express.js, MongoDB, Mongoose, JWT |
 | [ICpEP Connect](https://github.com/rvinong/cpe-website) | Organization portal with announcements, events, news, gallery, accounts, dashboard tools, comments, and reactions. | React, Vite, Tailwind CSS, Framer Motion, Supabase |
 | [mco-linkedlist](https://github.com/rvinong/mco-linkedlist) | Programming fundamentals project focused on linked list logic and data structures. | JavaScript, HTML, CSS |
-| [Ether-Web-Innovations](https://github.com/rvinong/Ether-Web-Innovations) | A frontend web design project exploring layout, styling, and presentation. | HTML, CSS, JavaScript |
+| [Ether-Web-Innovations](https://github.com/rvinong/Ether-Web-Innovations) | Frontend web design project exploring layout, styling, and presentation. | HTML, CSS, JavaScript |
 
 ---
 
