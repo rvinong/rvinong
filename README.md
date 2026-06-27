@@ -22,9 +22,11 @@ My current mindset is simple:
 
 That does not mean skipping the fundamentals. It means building with curiosity, testing ideas quickly, fixing what breaks, and learning deeper each time the project asks more from me.
 
-One of my main builds is **CPE-HUB**, an ecommerce website where I worked with a React frontend, Tailwind styling, backend routes, authentication logic, MongoDB/Mongoose database work, product seeding scripts, and admin/user flows. It helped me practice how a web app moves from interface to server to database.
+I have worked on projects like **CPE-HUB**, an ecommerce website where I practiced frontend pages, backend routes, authentication logic, MongoDB/Mongoose database work, product scripts, and admin/user flows.
 
 I am also building **ICpEP Connect**, an organization portal for announcements, events, news, gallery posts, accounts, roles, dashboards, comments, reactions, and database-backed workflows.
+
+These projects help me practice both sides of development: creating interfaces people can use and building the logic and data systems behind them.
 
 ---
 
@@ -57,33 +59,32 @@ I am also building **ICpEP Connect**, an organization portal for announcements, 
 
 ---
 
-## Featured Build: CPE-HUB
+## Projects I Am Building
 
 <table>
   <tr>
-    <td width="58%">
+    <td width="50%">
       <h3><a href="https://github.com/rvinong/CPE-HUB">CPE-HUB</a></h3>
       <p>
-        An ecommerce website project built to practice full-stack development.
-        It includes frontend pages, backend server work, database models,
-        authentication-related logic, product scripts, and admin/user system ideas.
+        An ecommerce website project where I practiced frontend pages,
+        backend routes, authentication-related logic, database models,
+        product scripts, and admin/user system ideas.
       </p>
       <p>
-        This project helped me connect the dots between UI, API logic,
-        data storage, and real app behavior.
+        It helped me understand how an app connects UI, API logic,
+        data storage, and user workflows.
       </p>
     </td>
-    <td width="42%">
-      <strong>Stack used</strong>
-      <br><br>
-      React<br>
-      Tailwind CSS<br>
-      Framer Motion<br>
-      Axios<br>
-      Node.js and Express.js<br>
-      JWT and Bcrypt<br>
-      MongoDB and Mongoose<br>
-      Webpack and PostCSS
+    <td width="50%">
+      <h3><a href="https://github.com/rvinong/cpe-website">ICpEP Connect</a></h3>
+      <p>
+        An organization portal built for announcements, events, news,
+        gallery posts, accounts, dashboards, roles, comments, and reactions.
+      </p>
+      <p>
+        It helped me practice UI/UX, dashboard workflows, authentication,
+        database-backed features, and community-focused web tools.
+      </p>
     </td>
   </tr>
 </table>
@@ -117,6 +118,7 @@ I am also building **ICpEP Connect**, an organization portal for announcements, 
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-0f172a?style=for-the-badge&logo=letsencrypt&logoColor=f97316)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=22c55e)
 ![Mongoose](https://img.shields.io/badge/Mongoose-0f172a?style=for-the-badge&logo=mongodb&logoColor=ef4444)
+![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=for-the-badge&logo=supabase&logoColor=22c55e)
 ![Database Design](https://img.shields.io/badge/Database_Design-0f172a?style=for-the-badge&logo=databricks&logoColor=60a5fa)
 
 ### Tools
@@ -147,7 +149,7 @@ I am also building **ICpEP Connect**, an organization portal for announcements, 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [CPE-HUB](https://github.com/rvinong/CPE-HUB) | Ecommerce website with frontend pages, backend logic, auth-related features, scripts, and database work. | React, Tailwind CSS, Express.js, MongoDB, Mongoose, JWT |
-| [ICpEP Connect](https://github.com/rvinong/cpe-website) | Organization portal with announcements, events, news, gallery, accounts, dashboard tools, comments, and reactions. | React, Vite, Tailwind CSS, Framer Motion, database workflows |
+| [ICpEP Connect](https://github.com/rvinong/cpe-website) | Organization portal with announcements, events, news, gallery, accounts, dashboard tools, comments, and reactions. | React, Vite, Tailwind CSS, Framer Motion, Supabase |
 | [mco-linkedlist](https://github.com/rvinong/mco-linkedlist) | Programming fundamentals project focused on linked list logic and data structures. | JavaScript, HTML, CSS |
 | [Ether-Web-Innovations](https://github.com/rvinong/Ether-Web-Innovations) | A frontend web design project exploring layout, styling, and presentation. | HTML, CSS, JavaScript |
 
