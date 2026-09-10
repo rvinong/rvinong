@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Rvin Ong Labrada</title>
+  <desc id="desc">Computer Engineering student. Ideas into interfaces. Interfaces into working systems.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#142940"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#8ca8c8" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="24" fill="url(#grid)"/>
+  <path d="M64 70H136" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="64" y="113" fill="#67e8f9" font-size="14" font-weight="700" letter-spacing="3">COMPUTER ENGINEERING / LEARNING BY BUILDING</text>
+    <text x="60" y="201" fill="#f1f5f9" font-size="65" font-weight="750" letter-spacing="-2">Rvin Ong Labrada.</text>
+    <text x="64" y="253" fill="#b6c7db" font-size="24">Ideas into interfaces.</text>
+    <text x="64" y="289" fill="#b6c7db" font-size="24">Interfaces into working systems.</text>
+    <text x="64" y="371" fill="#7990ad" font-size="15" letter-spacing="2">@RVINONG</text>
+  </g>
+  <g fill="none" stroke="url(#accent)">
+    <rect x="887" y="115" width="218" height="190" rx="20" stroke-opacity=".25"/>
+    <rect x="909" y="93" width="218" height="190" rx="20" fill="#102034" stroke-opacity=".7"/>
+    <path d="M909 138H1127" stroke-opacity=".3"/>
+    <path d="M974 176L952 199L974 222M1062 176L1084 199L1062 222M1033 170L1004 229" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="#67e8f9">
+    <circle cx="933" cy="116" r="4"/>
+    <circle cx="949" cy="116" r="4" opacity=".6"/>
+    <circle cx="965" cy="116" r="4" opacity=".3"/>
+  </g>
+  <path d="M887 333H1127" stroke="#7990ad" stroke-opacity=".25"/>
+  <text x="1007" y="362" text-anchor="middle" fill="#91a9c4" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="3">CURIOUS BY DEFAULT</text>
+</svg>
